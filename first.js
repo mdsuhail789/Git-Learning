@@ -13,3 +13,5 @@ const footer = "footer added in our website";
 console.log(footer);
 
 console.log(" add password"); 
+
+console.log("Bug fixed me");
